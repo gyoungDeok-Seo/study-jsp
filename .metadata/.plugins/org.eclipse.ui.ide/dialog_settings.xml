@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ExternalProjectImportWizard">
+		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="true"/>
+		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value=""/>
+			<item value="C:\wed_1900_sgd\jsp\workspace\servlet"/>
+			<item value="C:\wed_1900_sgd\jsp\workspace\Servers"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value="C:\Users\dkacj\OneDrive\바탕 화면\웹개발\mvc.zip"/>
+			<item value="C:\Users\dkacj\OneDrive\바탕 화면\웹개발\jsp_day05\mvc.zip"/>
+			<item value="C:\wed_1900_sgd\jsp\workspace\mvc.zip"/>
+			<item value="C:\Users\dkacj\OneDrive\바탕 화면\웹개발\jsp_day03\mybatis.zip"/>
+			<item value="C:\wed_1900_sgd\jsp\workspace\servlet.zip"/>
+		</list>
+	</section>
+</section>
